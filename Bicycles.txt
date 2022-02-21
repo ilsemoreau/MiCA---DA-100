@@ -1,0 +1,6 @@
+Type Bicycle	2019	2020	2021
+Tandem	7	6	5
+BMX	8	1	6
+Ladies bike	6	5	7
+Men's bike	9	3	12
+Mountainbike	2	4	10
